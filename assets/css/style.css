@@ -174,7 +174,12 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
-  }
+    transform: rotate(90deg)  ;
+    -webkit-transform: rotate(90deg)  ;
+    -moz-transform: rotate(90deg)  ;
+    -ms-transform: rotate(90deg)  ;
+    -o-transform: rotate(90deg)  ;
+}
   
   /* contact page */
   
